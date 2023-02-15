@@ -1,11 +1,11 @@
-import './App.css';
+import React from 'react';
+
+// API Key: a07d0c99
 
 const App = () => {
-  return (
-    <div className="App">
-      <h1>Hello, World</h1>
-    </div>
-  );
+    return (
+        <h1>App</h1>
+    );
 }
 
 export default App;
